@@ -19,11 +19,12 @@ Repositori ini disusun sebagai media pencatatan, pengumpulan tugas, dan dokument
 | **Pertemuan 02** | Komponen Visual Windows Forms, Event Handling, dan Properti | Selesai | [Buka Dokumentasi](./Pertemuan2-KomponenVisual/readme.md) |
 | **Pertemuan 03** | Operator, Struktur Pengendalian, dan Validasi Input | Selesai | [Buka Dokumentasi](./Pertemuan3-Operator-dan-struktur-pengendalian/readme.md) |
 
-
+---
 
 <div align="center">
 
-KAMUS SIINTAKS
+# KAMUS SIINTAKS
+</div>
 
 
 ### 1. Komponen Antarmuka (UI Controls)
