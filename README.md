@@ -103,9 +103,9 @@
 
 | Perintah / Sintaks | Penjelasan Singkat |
 | :--- | :--- |
-| `MessageBox.Show("Pesan", "Judul", MessageBoxButtons.OK, MessageBoxIcon.Information)` | Menampilkan dialog pop-up informasi dengan ikon biru info (ℹ️). |
-| `MessageBox.Show("Pesan", "Judul", MessageBoxButtons.OK, MessageBoxIcon.Warning)` | Menampilkan dialog pop-up peringatan dengan ikon segitiga kuning (⚠️). |
-| `MessageBox.Show("Pesan", "Judul", MessageBoxButtons.OK, MessageBoxIcon.Error)` | Menampilkan dialog pop-up kesalahan dengan ikon silang merah (❌). |
+| `MessageBox.Show("Pesan", "Judul", MessageBoxButtons.OK, MessageBoxIcon.Information)` | Menampilkan dialog pop-up informasi dengan ikon biru info. |
+| `MessageBox.Show("Pesan", "Judul", MessageBoxButtons.OK, MessageBoxIcon.Warning)` | Menampilkan dialog pop-up peringatan dengan ikon segitiga kuning. |
+| `MessageBox.Show("Pesan", "Judul", MessageBoxButtons.OK, MessageBoxIcon.Error)` | Menampilkan dialog pop-up kesalahan dengan ikon silang merah. |
 | `Dim res = MessageBox.Show("Hapus?", "Tanya", MessageBoxButtons.YesNo)` | Menampilkan dialog konfirmasi pilihan ganda (*Yes/No*). |
 | `Dim f As New Form2()` | Membuat instansiasi objek baru untuk form kedua di memori. |
 | `f.Show()` | Membuka form baru secara *non-modal* (form induk masih aktif dan bisa diklik). |
