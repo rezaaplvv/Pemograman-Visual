@@ -5,10 +5,6 @@
 </div>
 
 
-
-
-Repositori ini disusun sebagai media pencatatan, pengumpulan tugas, dan dokumentasi berkala atas seluruh modul praktikum mata kuliah Pemrograman Visual. Fokus utama pembelajaran mencakup perancangan antarmuka pengguna grafis (GUI), penanganan event (*event handling*), manipulasi kontrol Windows Forms, pemrosesan logika bisnis, dan validasi data.
-
 ---
 
 ## Daftar Modul Praktikum
