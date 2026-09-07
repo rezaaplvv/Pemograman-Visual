@@ -19,7 +19,7 @@
 
 <div align="center">
 
-# KAMUS SIINTAKS
+# KAMUS SINTAKS
 </div>
 
 
